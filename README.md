@@ -145,7 +145,7 @@
     - commands need to be terminated with the ;(semicolon)
 - Cheat Sheet
 
-    [PostgreSQL-Cheat-Sheet.pdf](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/af731189-5ae4-4ebd-8eae-8e1f96581cf2/PostgreSQL-Cheat-Sheet.pdf)
+    https://www.postgresqltutorial.com/postgresql-cheat-sheet/
 
 ### SQL Syntax
 
